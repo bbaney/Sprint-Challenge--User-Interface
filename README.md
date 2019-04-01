@@ -33,19 +33,24 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+   
    -- Semantic HTML adds meaning to the webpage, instead of just presentation --
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-   -- Display: block; makes elements stack up and down on a webpage. Display: inline; makes elements display side to side on a webpage. --
+  
+  -- Display: block; makes elements stack up and down on a webpage. Display: inline; makes elements display side to side on a webpage. --
 
 3. What are the 4 areas of the box model?
+   
    -- Margin, Padding, Border, Content -- 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+   
    -- Cross Axis --
 
 5. Explain why git is valuable to a team of developers.
-   -- Git allows a team to work on different parts of the project without having to mess with the master branch. It allows the team to 
+  
+  -- Git allows a team to work on different parts of the project without having to mess with the master branch. It allows the team to 
    use trial and error to see what codes may or may not work. It also allows team leads to look over the code and make sure that it
    would work correctly before adding it to the master branch. --
 
